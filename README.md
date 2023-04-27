@@ -1,7 +1,7 @@
 # offline_RL_TLab
 
 ## Статьи
-https://arxiv.org/pdf/2006.09359.pdf - awac.
+https://arxiv.org/pdf/2006.09359.pdf - awac.\n
 https://arxiv.org/pdf/2110.06169.pdf - iql.
 
 ## Ссылка на wandb с графиками
