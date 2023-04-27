@@ -8,4 +8,4 @@ https://arxiv.org/pdf/2110.06169.pdf - iql.
 https://wandb.ai/kirill-cuznetsov2002/CORL?workspace=user-kirill-cuznetsov2002
 
 ## Requirements
-Все requirements котороые требуются уставливаются в начале файла offline_RL_Tlab.ipynb
+Все requirements которые требуются устанавливаются в начале файла offline_RL_Tlab.ipynb
