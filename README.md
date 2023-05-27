@@ -1,4 +1,4 @@
-# offline_RL_TLab
+# offline_RL
 
 ## Статьи
 https://arxiv.org/pdf/2006.09359.pdf - awac.  
